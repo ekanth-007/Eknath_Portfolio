@@ -17,22 +17,22 @@ const projects = [
     repo: "https://github.com/ekanth-007/my",
     icon: "fas fa-blog",
   },
-  {
+  /*{
     title: "E-Commerce Platform",
     desc: "Full-featured e-commerce application built with Spring Boot backend and React frontend.",
     tech: ["Spring Boot", "Thymeleaf", "MySQL", "Hibernate", "Stripe API", "Spring Security"],
     live: "#",
     repo: "#",
     icon: "fas fa-shopping-cart",
-  },
-  {
+  },*/
+  /*{
     title: "Banking Management System",
     desc: "Secure banking application with Spring Security, transaction management, and admin features.",
     tech: ["Spring Boot", "Spring Security", "Hibernate", "MySQL", "Thymeleaf"],
     live: "#",
     repo: "#",
     icon: "fas fa-chart-line",
-  },
+  },*/
 ];
 
 export default function Projects() {
